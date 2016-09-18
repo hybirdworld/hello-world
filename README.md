@@ -1,2 +1,7 @@
 # hello-world
-just another repository
+
+hi!
+
+
+
+I am a student.I am very interested in artificial intelligence.
